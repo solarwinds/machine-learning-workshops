@@ -6,6 +6,6 @@ The lessons are in separate solutions and take the learner through the usage of 
 
 The solutions use Microsoft Visual Studio 2017.
 The solutions use nuget packages:
-Newtonsoft.Json
-Microsoft.ML
-.NET Core 2.X
+ - Newtonsoft.Json
+ - Microsoft.ML
+ -.NET Core 2.X
