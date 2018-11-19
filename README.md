@@ -8,4 +8,4 @@ The solutions use Microsoft Visual Studio 2017.
 The solutions use nuget packages:
  - Newtonsoft.Json
  - Microsoft.ML
- -.NET Core 2.X
+ - .NET Core 2.X
