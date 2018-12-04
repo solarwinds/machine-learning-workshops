@@ -9,3 +9,20 @@ The solutions use nuget packages:
  - Newtonsoft.Json
  - Microsoft.ML
  - .NET Core 2.X
+
+# Envrionment Setup
+
+Windows
+ - Visual Studio 2017
+ - NuGet - for NewtonSoft.Json and Microsoft.ML
+ - .NET Core 2.X
+ - Install Git
+ - Willingness to science and be wrong
+ - Access to Google
+
+Mac
+ - Install VS Code and .NET Core on your mac
+https://code.visualstudio.com/download 
+https://www.microsoft.com/net/download/dotnet-core/2.1 
+ - Follow these instructions for C# plugins:
+https://code.visualstudio.com/docs/languages/csharp 
